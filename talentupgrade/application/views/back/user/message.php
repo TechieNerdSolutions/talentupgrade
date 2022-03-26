@@ -1,0 +1,1 @@
+<?php include $message_inner_page_name . '.php'; ?>
